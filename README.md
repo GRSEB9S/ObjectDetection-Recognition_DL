@@ -1,17 +1,14 @@
-# ObjectDetection-Recognition_DL
+# ObjectDetection-Recognition
 object detection, object recognition, deep learning
 
-##Object Detection
-
-======
 ## Table of Contents
 - [Papers](#papers)
-  - [Typical]
-  - [2D]
-  - [3D](#rgb-d, lidar)
-  - [Autonomous Driving]
-  - [Videos]
-  - [Evaluation]
+  - [Typical](#Typical)
+  - [2D](#2D)
+  - [3D](#3d)
+  - [Autonomous Driving](#Autonomous Driving)
+  - [Videos](#Videos)
+  - [Evaluation](#Evaluation)
   - [Assembly_with_others](#assembly_with_others)
   - [Datasets](#datasets)
 
