@@ -12,7 +12,7 @@ object detection, object recognition, deep learning
   - [Autonomous Driving]
   - [Videos]
   - [Evaluation]
-  - [Assembly_with_others]
+  - [Assembly_with_others](#assembly_with_others)
   - [Datasets](#datasets)
 
 ### Papers
